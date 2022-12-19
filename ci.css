@@ -1,0 +1,32 @@
+body{
+	background-color:#FBE6C2;
+}
+
+.main-container{
+	margin-left:20%;
+	margin-right:20%;
+}
+
+.cover-photo{
+	height: 200px;
+	width:100%;
+	background-size:cover;
+	background-image:url("cicover.jpg");
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	
+}
+
+.header{
+	background-color:#F8C3AF;
+	border-radius:30px;
+	
+}
+
+.contact{
+	background-color:#F8C3AF;
+	height:250px;
+	margin-top:20px;
+	padding:20px;
+	border-radius:30px;
+}
