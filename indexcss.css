@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: orange;
+}
+
+.gwapolang {
+  border: 2px solid orange;
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
+  width: 800px;
+}
